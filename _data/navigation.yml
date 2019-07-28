@@ -1,0 +1,14 @@
+#home must be in first and secon is the contact
+- name: Home
+  link: /
+  level: 1
+- name: Contact Us
+  link: /contact
+  level: 1
+#this area can be re-arrange
+- name: About
+  link: /about
+  level: 2
+- name: Services
+  link: /services
+  level: 2

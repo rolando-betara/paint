@@ -1,0 +1,28 @@
+<!DOCTYPE HTML>
+<html>
+	<head>
+		<title>{{ page.title }}  | {{ page.description }}</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<link rel="stylesheet" href="{{ site.baseurl }}/assets/css/main.css" />
+	</head>
+	<body>
+	<header id="header">
+		<nav class="left">
+			<a href="#menu"><span>Menu</span></a>
+		</nav>
+		<a href="{{ site.data.navigation[0].link }}" class="logo">{{ site.title }} </a>
+		<nav class="right">
+			<a href="{{ site.data.navigation[1].link }}" class="button alt">{{ site.data.navigation[1].name }}</a>
+		</nav>
+	</header>
+	{% include navigation.html %}
+	{{ content }}
+	{% include footer.html %}
+	<script src="/assets/js/jquery.min.js"></script>
+	<script src="/assets/js/jquery.scrolly.min.js"></script>
+	<script src="/assets/js/skel.min.js"></script>
+	<script src="/assets/js/util.js"></script>
+	<script src="/assets/js/main.js"></script>	
+	</body>
+</html>

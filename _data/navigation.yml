@@ -9,6 +9,6 @@
 - name: About
   link: /about
   level: 2
-- name: Services
-  link: /services
+- name: Service
+  link: /service
   level: 2

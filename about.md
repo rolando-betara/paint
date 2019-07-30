@@ -1,18 +1,9 @@
 ---
 title: About 
 description: The paint you can trust
-layout: default
+layout: page
+tag: You can be assured your project is in great hands down to the last detail. No corners are ever cut on any job and the goal of our housepaintmelbourne painters is to provide the best finish in the area at reasonable costs. We maintain a very small crew for this reason and to be assured of the best quality job for you, your home or business.
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
-
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+<p>Our specialities include Interior & Exterior Painting, Paint prep, Custom Painting, Wall Paper, Removal, Dry Wall Repair, Plaster Repairs, Wood Replacement, Color Consulting, Pressure Washing, Painter for a Day, Interior & Exterior Staining, Cabinet Painting, Custom Wood Working, Epoxy Floor Coating, Roof Deck Coating.</p>
+<p> Getting the job done to the customer's complete satisfaction is our goal. We believe in building our clients from prior customer's referrals and satisfaction. From the first tarp we lay down to the final brush stroke, you will see top quality professional work.</p>

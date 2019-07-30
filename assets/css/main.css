@@ -2920,7 +2920,9 @@
 
 	#banner {
 		padding: 14em 0 12em 0;
-		background-image: linear-gradient(to right top, #e74c3c, #ef72ac, #c7abed, #bad6f7, #ecf0f1);
+		background: rgb(59,91,138);
+		background: linear-gradient(138deg, rgba(59,91,138,1) 35%, rgba(47,122,165,1) 100%);
+		/*background-image: linear-gradient(to right top, #e74c3c, #ef72ac, #c7abed, #bad6f7, #ecf0f1);*/
 		/*background-image: linear-gradient(to right top, #051937, #004d7a, #008793, #00bf72, #a8eb12);*/
 		/*background-image: url(/assets/images/banner.jpg);
 		background-size: cover;

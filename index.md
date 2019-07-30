@@ -52,7 +52,7 @@ layout: default
 		<div class="inner flex flex-3">
 			<div class="flex-item box">
 				<div class="image fit">
-					<img src="/assets/images/housepaint1.jpg" alt="" />
+					<img src="{{ site.baseurl }}/assets/images/housepaint1.jpg" alt="" />
 				</div>
 				<div class="content">
 					<h3>Interior Painting Process</h3>
@@ -61,7 +61,7 @@ layout: default
 			</div>
 			<div class="flex-item box">
 				<div class="image fit">
-					<img src="/assets/images/housepaint2.jpg" alt="" />
+					<img src="{{ site.baseurl }}/assets/images/housepaint2.jpg" alt="" />
 				</div>
 				<div class="content">
 					<h3>Exterior Painting</h3>
@@ -70,7 +70,7 @@ layout: default
 			</div>
 			<div class="flex-item box">
 				<div class="image fit">
-					<img src="/assets/images/housepaint3.jpg" alt="" />
+					<img src="{{ site.baseurl }}/assets/images/housepaint3.jpg" alt="" />
 				</div>
 				<div class="content">
 					<h3>Paint Stripping</h3>

@@ -17,7 +17,7 @@ title: House Paint Melbourne
 email: steven@curadigitalagency.com
 description: >- # this means to ignore newlines until "baseurl:"
   The paint you can trust
-baseurl: "/paint" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
 #github_username:  jekyll
@@ -27,6 +27,8 @@ markdown: kramdown
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
 
 defaults:
   - scope:

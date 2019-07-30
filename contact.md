@@ -1,11 +1,11 @@
 ---
 title: Contact 
-description: The paint you can trust
+description: The painter you can trust
 layout: page
 tag: REQUEST A FREE CONSULTATION TODAY!
 ---
 
-<form method="post" action="#">
+<form method="post" action="https://usebasin.com/f/14eedc2f7a11">
 	<div class="row uniform">
 		<div class="6u 12u$(xsmall)">
 			<input type="text" name="name" id="name" value="" placeholder="Name" />

@@ -1848,6 +1848,8 @@
 		margin: 0 0 1em 0;
 	}
 
+
+	input[type="date"],
 	input[type="text"],
 	input[type="password"],
 	input[type="email"],
@@ -1869,7 +1871,7 @@
 		text-decoration: none;
 		width: 100%;
 	}
-
+		input[type="date"]:invalid,
 		input[type="text"]:invalid,
 		input[type="password"]:invalid,
 		input[type="email"]:invalid,
@@ -1879,6 +1881,7 @@
 			box-shadow: none;
 		}
 
+		input[type="date"]:focus,
 		input[type="text"]:focus,
 		input[type="password"]:focus,
 		input[type="email"]:focus,
@@ -1921,13 +1924,17 @@
 		.select-wrapper select::-ms-expand {
 			display: none;
 		}
-
+	input[type="date"] {
+		padding: 0.7rem 1rem !important;
+	}
+	input[type="date"],	
 	input[type="text"],
 	input[type="password"],
 	input[type="email"],
 	select {
 		height: 3.5em;
 		line-height: 3.5em;
+		
 	}
 
 	textarea {

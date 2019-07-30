@@ -1,6 +1,6 @@
 ---
 title: House Paint Melbourne 
-description: The paint you can trust
+description: The painter you can trust
 layout: default
 ---
 <section id="banner">
@@ -8,8 +8,8 @@ layout: default
 		<h1>MELBOURNE PAINTING CONTRACTOR</h1>
 		<p>A trusted and professional Melbourne painter. We guarantee 100% satisfaction and stand behind all of our work. If you would like to receive a free estimate from our local Melbourne painting contractor then please give us a call at 123-456-789.</p>
 		<ul class="actions">
-			<li><a href="#one" class="button scrolly">Get Your Online Estimate</a></li>
-			<li><a href="#one" class="button scrolly">Schedule In-Home Estimate</a></li>
+			<li><a href="{{ site.data.navigation[2].link }}" class="button scrolly">{{ site.data.navigation[2].name }}</a></li>
+			<li><a href="{{ site.data.navigation[3].link }}" class="button scrolly">{{ site.data.navigation[3].name }}</a></li>
 		</ul>
 	</div>
 </section>
@@ -22,7 +22,7 @@ layout: default
 			</div>
 			<div class="6u$ 12u$(small)">
 				<h3>Interior/Exterior House Painters</h3>
-				<p>Lawless Painting is a Painting Company in Melbourne, Pennsylvania, Center City, Delco Media (Delaware County, Media), Cherry Hill and surrounding areas for over 25 years. We provide Residential and Commercial Painting for Interior and Exterior Painting projects. We specialize in custom paint work, indoor and outdoor house painting, power washing, wall paper removal, dry wall repair, cabinet refinishing, cabinet painting, custom repaints, wood replacement, color consulting, pressure washing, table refinishing, interior and exterior staining and so much more. We are your go-to quality painting Melbourne company!</p>
+				<p>We provide Residential and Commercial Painting for Interior and Exterior Painting projects. We specialize in custom paint work, indoor and outdoor house painting, power washing, wall paper removal, dry wall repair, cabinet refinishing, cabinet painting, custom repaints, wood replacement, color consulting, pressure washing, table refinishing, interior and exterior staining and so much more. We are your go-to quality painting Melbourne company!</p>
 			</div>
 			<div class="6u 12u$(small)">
 				<h3>We are a locally owned painting company</h3>

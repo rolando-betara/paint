@@ -1,6 +1,6 @@
 ---
 title: About 
-description: The paint you can trust
+description: The painter you can trust
 layout: page
 tag: You can be assured your project is in great hands down to the last detail. No corners are ever cut on any job and the goal of our housepaintmelbourne painters is to provide the best finish in the area at reasonable costs. We maintain a very small crew for this reason and to be assured of the best quality job for you, your home or business.
 ---

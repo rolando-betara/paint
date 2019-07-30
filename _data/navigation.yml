@@ -1,14 +1,20 @@
 #home must be in first and secon is the contact
 - name: Home
-  link: /paint/
+  link: /
   level: 1
 - name: Contact Us
-  link: /paint/contact
+  link: /contact
+  level: 1
+- name: Get Your Online Estimate
+  link: /get-online-estimate
+  level: 1
+- name: Schedule In-Home Estimate
+  link: /schedule-in-house-estimate
   level: 1
 #this area can be re-arrange
 - name: About
-  link: /paint/about
+  link: /about
   level: 2
 - name: Service
-  link: /paint/service
+  link: /service
   level: 2

@@ -1,6 +1,6 @@
 ---
 title: Service 
-description: The paint you can trust
+description: The painter you can trust
 layout: page
 tag: Our painting team is committed to providing timely, professional and dedicated painting services for interior or exterior and commercial or residential projects. Please view some of our specialities below
 ---
@@ -9,7 +9,7 @@ tag: Our painting team is committed to providing timely, professional and dedica
 	<div class="inner flex flex-3">
 		<div class="flex-item box">
 			<div class="image fit">
-				<img src="/assets/images/housepaint1.jpg" alt="" />
+				<img src="{{ site.baseurl }}/assets/images/housepaint1.jpg" alt="" />
 			</div>
 			<div class="content">
 				<ul>
@@ -25,7 +25,7 @@ tag: Our painting team is committed to providing timely, professional and dedica
 		</div>
 		<div class="flex-item box">
 			<div class="image fit">
-				<img src="/assets/images/housepaint2.jpg" alt="" />
+				<img src="{{ site.baseurl }}/assets/images/housepaint2.jpg" alt="" />
 			</div>
 			<div class="content">
 				<ul>
@@ -41,7 +41,7 @@ tag: Our painting team is committed to providing timely, professional and dedica
 		</div>
 		<div class="flex-item box">
 			<div class="image fit">
-				<img src="/assets/images/housepaint3.jpg" alt="" />
+				<img src="{{ site.baseurl }}/assets/images/housepaint3.jpg" alt="" />
 			</div>
 			<div class="content">
 				<ul>
